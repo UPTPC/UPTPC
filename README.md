@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.uptpc.edu.ve/">
-    <img src="https://i.ibb.co/3W9L8W5/logo-uptpc.png" alt="Logo de la UPTPC" width="200"/>
+    <img src="https://i.ibb.co/ZzBd0nQ1/LOGO.png" alt="Logo de la UPTPC" width="200"/>
   </a>
 </p>
 
